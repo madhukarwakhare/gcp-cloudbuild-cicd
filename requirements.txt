@@ -1,0 +1,6 @@
+google-cloud-bigquery==2.34.4
+Flask
+gunicorn
+pandas
+pyarrow
+pytest
